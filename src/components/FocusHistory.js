@@ -55,6 +55,6 @@ const styles = StyleSheet.create({
   },
   clearContainer: {
     alignItems : "center",
-    spacing : spacing.medium
+    padding : spacing.medium
   }
 });
